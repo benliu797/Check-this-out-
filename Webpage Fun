@@ -9,7 +9,6 @@
       color: white;
       font-weight: bold;
       text-shadow: 6px 2px 3px black;
-
     }
     a {
       color: white;
