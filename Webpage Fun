@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-  <link href="/normalize.css" rel="stylesheet">
   <style>
     header {
       text-align: center;
@@ -8,7 +7,7 @@
       background-size: cover;
       color: white;
       font-weight: bold;
-      text-shadow: 6px 1px 3px black;
+      text-shadow: 6px 2px 3px black;
 
     }
     a {
