@@ -60,7 +60,8 @@
   </header>
   <article>
     <h2>I am Born Handsome</h2>
-    <p>As a natural handsome guy. I am born to be handsome. The handsomeness genes are within me. However, I am not only handsome, I am also talented in singing. 
+    <p>As a natural handsome guy. I am born to be handsome. The handsomeness genes are within me. However, I am not only handsome, I am also talented in singing.</p>
+    <button>Like</button>
   </article>
   <article>
     <h2>Meditate Daily</h2>
