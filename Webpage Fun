@@ -58,21 +58,21 @@
       <li><a href="#">My Beautiful Singing</a></li>
     </ul>
   </header>
-  <article>
-    <h2>I am Born Handsome</h2>
-    <p>As a natural handsome guy. I am born to be handsome. The handsomeness genes are within me. However, I am not only handsome, I am also talented in singing.</p>
-    <button>Like</button>
-  </article>
-  <article>
-    <h2>Meditate Daily</h2>
-    <p>Meditation can help me become even more handsome and...wise. I mediate five minutes everyday to reflect on my life and explore my inner self. It is amazing to be enlightened.</p>
-    <button>Like</button>
-  </article>
-  <article>
-    <h2>I sing like Justin Timberlake/ Justin Bieber</h2>
-    <p>Many people think all I've got is my handsome look. They are wrong! I also got a beautiful voice that soothes everyone's heart!</p>
-    <button>Like</button>
-  </article>
+    <article>
+      <h2>I am Born Handsome</h2>
+      <p>As a natural handsome guy. I am born to be handsome. The handsomeness genes are within me. However, I am not only handsome, I am also talented in singing.</p>
+      <button>Like</button>
+    </article>
+    <article>
+      <h2>Meditate Daily</h2>
+      <p>Meditation can help me become even more handsome and...wise. I mediate five minutes everyday to reflect on my life and explore my inner self. It is amazing to be enlightened.</p>
+      <button>Like</button>
+    </article>
+    <article>
+      <h2>I sing like Justin Timberlake/ Justin Bieber</h2>
+      <p>Many people think all I've got is my handsome look. They are wrong! I also got a beautiful voice that soothes everyone's heart!</p>
+      <button>Like</button>
+    </article>
   <script>
     $("button").on("click", function() {
       alert("Clicked!");
